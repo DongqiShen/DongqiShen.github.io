@@ -1,11 +1,15 @@
 ---
-title: Writting a blog
+title: COPIED - Writing a blog
 author: dongqi
 date: 2023-07-07 09:42:00 +0800
 categories: [Blogging, Tutorial]
-tags: [writing]
+tags: [COPIED]
 render_with_liquid: false
 ---
+
+> The post is not written by me, and I just _copy_ and _paste_ it here making it convenient for me when writing blogs. There are still a lot of problems here and one of it is how to insert _brackets_ in title? Any help will be appreciated!
+{: .prompt-tip }
+
 
 This tutorial will guide you how to write a post in the _Chirpy_ template, and it's worth reading even if you've used Jekyll before, as many features require specific variables to be set.
 
