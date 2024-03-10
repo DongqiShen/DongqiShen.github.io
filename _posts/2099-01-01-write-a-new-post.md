@@ -409,7 +409,11 @@ The following table shows how to get the two parameters we need in a given video
 | [https://www.**youtube**.com/watch?v=**H-B46URT4mg**](https://www.youtube.com/watch?v=H-B46URT4mg) | `youtube` | `H-B46URT4mg` |
 | [https://www.**twitch**.tv/videos/**1634779211**](https://www.twitch.tv/videos/1634779211)         | `twitch`  | `1634779211`  |
 
+## Deploy
 
+```cmd
+bundle exec jekyll s 
+```
 
 ## Learn More
 
